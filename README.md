@@ -13,4 +13,8 @@
 	<td>118.405.484-36</td>
 	<td>Vinicius S. Almeida</td>
   </tr>
+  <tr>
+  	<td>117.064.364-75</td>
+	<td>Adilson J. S. Junior</td>
+  </tr>
 </table>
